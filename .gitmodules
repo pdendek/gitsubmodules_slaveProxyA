@@ -1,0 +1,6 @@
+[submodule "run_bla_role"]
+	path = run_bla_role
+	url = git@github.com:pdendek/gitsubmodules_slaveD.git
+[submodule "run_ala_role"]
+	path = run_ala_role
+	url = git@github.com:pdendek/gitsubmodules_slaveE.git
